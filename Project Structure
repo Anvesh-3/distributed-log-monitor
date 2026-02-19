@@ -1,0 +1,12 @@
+distributed-log-monitor/
+│
+├── app/
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── monitoring.py
+│   └── routes.py
+│
+├── requirements.txt
+└── README.md
